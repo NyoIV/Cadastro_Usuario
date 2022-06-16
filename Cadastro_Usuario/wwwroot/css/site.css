@@ -1,0 +1,30 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 20px;
+        font-style: oblique,italic;
+    }
+
+    html {
+        position: relative;
+        min-height: 100%;
+    }
+
+    body {
+        margin-bottom: 60px;
+        font-size: 14px;
+        background-color: darkgrey;
+        background-size: 100% 100%
+        
+    }
+
+    h1 {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .navbar {
+        background-color: darkred !important;
+    }
